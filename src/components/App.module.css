@@ -1,0 +1,22 @@
+.App__container {
+  display: flex;
+  flex-direction: column;
+
+  border-radius: 10px;
+  max-width: 1200px;
+  height: 600px;
+  margin: 25px auto;
+  background-image: url('./image/cofee-min.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-shadow: 13px 10px 20px 10px rgba(0, 0, 0, 0.78);
+  -webkit-box-shadow: 13px 10px 20px 10px rgba(0, 0, 0, 0.78);
+  -moz-box-shadow: 13px 10px 20px 10px rgba(0, 0, 0, 0.78);
+}
+.Description {
+  max-width: 650px;
+}
+.FirstSection {
+  margin-top: 150px;
+}

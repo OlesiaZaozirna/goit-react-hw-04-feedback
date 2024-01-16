@@ -1,0 +1,17 @@
+.Btn {
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #c9936b;
+  color: #ffffff;
+  margin-right: 20px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.Btn:hover {
+  -webkit-box-shadow: 0px 0px 18px 7px rgba(255, 255, 255, 0.85);
+  -moz-box-shadow: 0px 0px 18px 7px rgba(255, 255, 255, 0.85);
+  box-shadow: 0px 0px 18px 7px rgba(255, 255, 255, 0.85);
+}

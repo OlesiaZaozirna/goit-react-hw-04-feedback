@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'TitleFont';
+  src: local('TitleFont'), url(./GrutchShaded.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PencilFont';
+  src: local('PencilFont'), url(./PencilpeteFont-2eE3.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

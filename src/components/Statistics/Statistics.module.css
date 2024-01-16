@@ -1,0 +1,9 @@
+.Statistics__list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  font-family: 'PencilFont';
+  font-size: 20px;
+  font-weight: 600;
+}
